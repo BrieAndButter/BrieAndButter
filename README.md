@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @BrieAndButter
 - 👀 I’m interested in Making Video Game Mods
-- 🌱 I’m currently learning Java and C#
-- 💞️ I’m not currently looking to collaborate on Programming Projects
+- 🌱 I’m currently learning C#
